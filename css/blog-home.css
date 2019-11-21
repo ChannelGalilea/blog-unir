@@ -1,0 +1,46 @@
+.post-center {
+    margin: auto;
+    width: 80%;
+  }
+
+.post-border {
+    /*background-color: beige;*/
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 3%;
+}
+
+.title-center {
+    text-align: center;
+}
+
+a:link {
+    color: red;
+  }
+  
+a:visited {
+color: green;
+}
+
+a:hover {
+color: blue;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.image {
+    max-height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#blog-title{
+    color: blue;
+    margin: 5%;
+    text-align: center;
+}
